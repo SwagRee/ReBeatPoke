@@ -1,0 +1,5 @@
+name: ReBeatPoke
+version: '1.0'
+main: io.github.swagree.rebeatpoke.Main
+
+
